@@ -1,3 +1,5 @@
+@import url('/node_modules/reveal.js/dist/reveal.css');
+@import url('/node_modules/reveal.js/dist/theme/black.css');
 @tailwind base;
 @tailwind components;
 @tailwind utilities;

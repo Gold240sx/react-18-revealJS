@@ -9,7 +9,7 @@ const demoCode = `const basicComponent = () => (
 export default function FirstSlide() {
 	return (
 		<Slide>
-			<h3>Basic application data structures</h3>
+			<h3>1st Slide: Basic application data structures</h3>
 			<div className="flex w-full justify-center">
 				<JSX code={demoCode} />
 			</div>
